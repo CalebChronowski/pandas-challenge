@@ -1,0 +1,7 @@
+Conclusions
+
+Despite there being 183 items and 780 purchases, the most purchased item was only purchased 12 times. This is significantly larger than the 4.26 average purchases each item received, but it is not the level of disparity I expected. I assumed that there would be a single low cost item priced at $0.99 with huge purchase volume.
+
+Despite accounting for less than half of the population of the world, people who play this game are about 84% Male. This is a Bayesian dream.
+
+To Pareto's great disappointment, the Males also account for 82% of the purchase revenue. In fact, across the age demographics and gender demographics I looked at, the people buying the items did not obey or remotely demonstrate an 80/20 rule. There's almost a linear correlation between the number of members in a demographic and the amount of revenue those members generate. Items are more skewed with the top 10% of items producing about 20% of the revenue. I truly expected at least one instance of a young child purchasing absurd quantities of an astonishingly expensive item.
